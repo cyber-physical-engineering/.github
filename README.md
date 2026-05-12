@@ -10,13 +10,13 @@ We build open-source tools for **trust assurance**—security monitoring, access
 
 | Layer | Tool | What It Does |
 |-------|------|-------------|
-| **Business** | [healthsec_trust_calculator](https://github.com/BigDataPlumbing/healthsec_trust_calculator) | Calculate financial impact of trust assurance |
-| **Assessment** | [healthsec_maturity_scorecard](https://github.com/BigDataPlumbing/healthsec_maturity_scorecard) | Score your compliance posture |
-| **Ecosystem** | [health_ecosystem_trust_model](https://github.com/BigDataPlumbing/health_ecosystem_trust_model) | Economic trust modeling for US health ecosystem |
-| **Architecture** | [opensource_truststack](https://github.com/BigDataPlumbing/opensource_truststack) | Reference implementation for trust assurance |
-| **AI Gateway** | [clinical_ai_gateway](https://github.com/BigDataPlumbing/clinical_ai_gateway) | Policy-driven AI guardrails for HIPAA/FDA |
-| **Device Layer** | [device_trust_shim](https://github.com/BigDataPlumbing/device_trust_shim) | Tamper-evident logging for embedded devices |
-| **Crypto** | [secure_crate](https://github.com/BigDataPlumbing/secure_crate) | Enterprise-grade cryptographic engine (Rust) |
+| **Business** | [healthsec_trust_calculator](https://github.com/cyberphsysicalengineering/healthsec_trust_calculator) | Calculate financial impact of trust assurance |
+| **Assessment** | [healthsec_maturity_scorecard](https://github.com/cyberphsysicalengineering/healthsec_maturity_scorecard) | Score your compliance posture |
+| **Ecosystem** | [health_ecosystem_trust_model](https://github.com/cyberphsysicalengineering/health_ecosystem_trust_model) | Economic trust modeling for US health ecosystem |
+| **Architecture** | [opensource_truststack](https://github.com/cyberphsysicalengineering/opensource_truststack) | Reference implementation for trust assurance |
+| **AI Gateway** | [clinical_ai_gateway](https://github.com/cyberphsysicalengineering/clinical_ai_gateway) | Policy-driven AI guardrails for HIPAA/FDA |
+| **Device Layer** | [device_trust_shim](https://github.com/cyberphsysicalengineering/device_trust_shim) | Tamper-evident logging for embedded devices |
+| **Crypto** | [secure_crate](https://github.com/cyberphsysicalengineering/secure_crate) | Enterprise-grade cryptographic engine (Rust) |
 
 ---
 
@@ -69,5 +69,5 @@ Our tools span the full stack:
 
 **Trust nothing. Prove everything.**
 
-[bigdataplumbing.com](https://www.bigdataplumbing.com) · [HealthSec Alliance](https://healthsecalliance.com)
+[cyberphysicalengineering.com](https://www.cyberphysicalengineering.com) · [HealthSec Engineering](https://healthsecengineering.com)
 
